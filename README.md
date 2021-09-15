@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything software development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on interesting project :D
-- 📫 How to reach me by email
+- 📫 How to reach me? by email
 
 <!---
 fadykittan/fadykittan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
