@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fadykittan
 - 👀 I’m interested in everything software development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on interesting project :D
+- 🌱 I’m currently working as backend software engineer
+- 💞️ I’m open to collaborate on interesting project :D
 - 📫 How to reach me? on LinkedIn
 https://www.linkedin.com/in/fady-kittan
 
